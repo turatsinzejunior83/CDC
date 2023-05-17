@@ -16,4 +16,4 @@ o Sexual and gender minorities
 o Middle-aged adults
 o Tribal populations
 
- I Appling  machine learning and network science skills to identify and characterize emerging health threats in the areas of suicide on Amercan societies.
+ I Applied  machine learning and network science skills to identify and characterize emerging health threats in the areas of suicide and rate growth on Amercan societies.
